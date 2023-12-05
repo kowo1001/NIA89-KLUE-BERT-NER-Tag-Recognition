@@ -1,6 +1,7 @@
 # NIA 89번 공적말하기데이터 구축 과제 
 
 ■ 모델: KLUE-BERT (BERT)
+
 ■ 개요
  - KLUE BERT base는 한국어로 사전 훈련된 BERT 모델
  - 한국어 이해 평가(KLUE,  Korean Language Understanding Evaluation)벤치마크 개발의 맥락에서 모델 개발
