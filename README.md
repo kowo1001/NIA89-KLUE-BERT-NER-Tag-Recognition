@@ -13,10 +13,11 @@
 
 ■ How to Get Started With the Model
 ```python
-from transformers import TFBertModel, BertTokenizer
+from transformers import BertTokenizer, TFBertModel
 
-model = TFBertModel.from_pretrained("klue/bert-base")
 tokenizer = BertTokenizer.from_pretrained("klue/bert-base")
+model = TFBertModel.from_pretrained("klue/bert-base")
+
 ```
 
 ■ Architecture
