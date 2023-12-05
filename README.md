@@ -20,8 +20,6 @@ tokenizer = BertTokenizer.from_pretrained("klue/bert-base")
 
 ■ Architecture
 
-![model_architecture_image22](https://github.com/kowo1001/KLUE-BERT-NER/assets/37354978/75d979b7-8d82-4136-8a7e-8730c6252b8f)
-
 ![model_architecture_image](https://github.com/kowo1001/KLUE-BERT-NER/assets/37354978/65a85c46-5abd-4a63-8520-4f0e257821d8)
 
 
