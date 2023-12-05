@@ -1,0 +1,34 @@
+version: '3.1'
+
+services:
+  publicspeak_gpu:
+    container_name: speaking
+    runtime: nvidia  # NVIDIA Container Toolkit을 사용하도록 지정
+    devices:
+      - /dev/nvidia0  # 사용할 NVIDIA GPU 장치 목록에 추가
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all  # 모든 GPU 사용시 설정
+    ports:
+      - 7676:9096
+    restart: always
+    ipc: host
+    user: "${USERID}:${USERID}"
+    build:
+      context: .
+      args:
+        - USERID=${USERID}
+        - GROUPID=${GROUPID}
+
+    volumes:
+      - # [주의]마운트 경로 변경시 local 경로만 변경 {local}:{container}
+    environment:
+      - TZ=Asia/Seoul
+      - LC_ALL=C.UTF-8
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
