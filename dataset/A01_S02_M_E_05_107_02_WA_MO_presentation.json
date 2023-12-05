@@ -1,0 +1,1339 @@
+{
+  "speaker" : {
+    "age_flag" : "A01",
+    "gender" : "남자",
+    "job" : "고등학생",
+    "aud_flag" : "AD11-30"
+  },
+  "presentation" : {
+    "presen_topic" : "A01_E_05",
+    "presen_type" : "S02",
+    "presen_location" : "학교",
+    "presen_script" : "안녕하세요, 여러분. 오늘은 우리나라의 풍부하고 다채로운 먹거리 문화를 통해 한류를 지키는 방법에 대해 이야기하고자 합니다. 음식은 문화의 중요한 부분이며, 우리의 다양한 음식 문화를 효과적으로 홍보하고 나아가 세계에 알리는 노력을 통해 한류를 더욱 강화시킬 수 있을 것입니다.\n첫째, 한국의 다양한 음식 문화를 홍보하는 것은 한류의 기반을 확실히 다지는 첫 걸음입니다. 우리나라는 매콤한 떡볶이부터 깊고 풍부한 국물 요리까지 다양한 음식을 보유하고 있습니다. 이러한 음식들은 우리 문화와 역사, 지리 등의 특징을 반영하고 있으며, 이를 세계에 알리는 것은 우리 문화를 다양한 관점에서 소개하는 좋은 방법입니다.둘째, 음식을 통해 다른 문화와 소통하고 이해를 높일 수 있습니다. 음식은 문화를 이해하고 소통하는 중요한 매개체입니다. 우리 음식 문화를 다양한 나라의 음식과 접목시켜 새로운 맛과 경험을 제공함으로써 다른 문화와의 교류를 촉진할 수 있습니다. 이를 통해 서로의 문화를 존중하고 이해하는 인간적인 연결고리를 형성할 수 있습니다.셋째, 음식 문화를 체험할 수 있는 행사와 활동을 개최하여 관심을 도모하는 것이 중요합니다. 음식 축제, 요리 대회, 전통 음식 체험 등의 행사를 통해 사람들에게 한국 음식의 매력을 직접 경험할 기회를 제공할 수 있습니다. 또한, 전통 음식의 조리법과 역사를 소개하는 워크숍이나 강연을 통해 음식 문화에 대한 지식을 널리 확산시킬 수 있을 것입니다.넷째, 소셜 미디어와 온라인 플랫폼을 활용하여 우리 음식 문화를 알리는 노력이 필요합니다. 요리 레시피, 음식 사진, 음식과 관련된 이야기 등을 공유하면서 한국 음식의 다양성과 특별함을 세계 여러 지역으로 홍보할 수 있습니다. 또한, 외국인 관광객들을 위한 음식 가이드나 레스토랑 추천 등을 제공하여 한국 음식을 더욱 쉽게 접할 수 있는 방법을 모색할 수 있습니다.마지막으로, 음식 문화의 보존과 현대화를 통해 지속적으로 발전시켜야 합니다. 전통 음식을 현대적인 방식으로 재해석하거나 현대 요구에 맞게 변화시키면서도 그 특별한 맛과 가치를 유지하는 것이 중요합니다. 또한, 음식 문화를 연구하고 보존하는 노력을 지속적으로 이어나가야 다음 세대에도 우리의 맛과 문화를 전해줄 수 있을 것입니다.이렇게 우리나라의 먹거리 문화를 홍보하여 한류를 지키는 방법에 대해 살펴보았습니다. 음식은 우리 문화의 중요한 일부이며, 이를 통해 한국의 다양성과 아름다움을 세계로 알리는 데에 큰 역할을 할 것입니다. 한류를 더욱 발전시키기 위해서는 우리의 먹거리 문화를 소중히 여기고 지속적인 노력을 기울여야 합니다. 감사합니다.",
+    "presen_difficulty" : "M"
+  },
+  "script" : {
+    "start_time" : "00:00",
+    "end_time" : "02:42",
+    "script_stt_txt" : "안녕하세요 여러분. 오늘은 우리나라의 풍부하고 다채로운 먹거리 문화를 통해 한류를 지키는 방법에 대해 이야기하고자 합니다. 음식은 문화의 중요한 부분이며 우리의 다양한 음식 문화를 효과적으로 홍보하고 나가 세계에 알리는 노력을 통해 한류를 더욱 강화하 강화시킬 수 있는 것입니다.첫째 한국의 다양한 음식 문화를 홍보하는 것은 한류의 기반을 확실히 다지는 첫 거래입니다. 우리나라는 매콤한 떡볶이부터 깊고 풍만 국물 요리까지 다양한 음식을 보유하고 있습니다. 이러한 음식들은 우리 문화와 역사, 지리 등의 특징을 반영하고 있으며 이를 세계에 알리는 것은 우리 문화를 다양한 관점에서 소개하는 좋은 방법입니다.둘째 음식을 통해 다른 문화와 소통하고 이해를 높일 수 있습니다. 음식은 문화를 이해하고 소통하는 중요한 매개체입니다. 우리 음식 문화를 다양한 나라의 음식과 접목시켜 새로운 맛과 경험을 제공함으로써 다른 문화와의 교류를 촉진할 수 있습니다. 이를 통해 서로의 문화를 존중하고 이해하는 인간적인 연결고리를 형성할 수 있습니다.셋째 음식 문화를 체험할 수 있는 행사와 활동을 개최하여 관심을 도모하는 것이 중요합니다. 음식 축제, 요리 대회, 전통 음식 체험 등의 행사를 통해 사람들에게 한국 음식의 매력을 직접 경험할 기회를 제공할 수 있습니다. 또한 전통 음음식의 조리법과 역사를 소개하는 워크숍이나 강연을 통해 음식 문화에 대한 지식을 널리 확산시킬 수 있을 것입니다.넷째, 소셜 미디어와 온라인 플랫폼을 활용하여 우리 음식 문화를 알리는 노력이 필요합니다. 요리 레시피, 음식 사진, 음식과 관련된 이야기 등을 공유하면서 한국 음식의 다양성과 특별함을 세계 여러 지역에 홍보할 수 있습니다. 또한 외국인 관광객들을 위한 음식 가이드나 레스토랑 추천 등에 제공하여 한국 음식을 더욱 쉽게 접할 수 있는 방법을 모색할 수 있습니다. 마지막으로 음식 문화의 보존과 현대화를 통해 지속적으로 발전을 시켜야 합니다.전통 음식을 현대적인 방식으로 재해석하거나 현대 요구에 맞게 변화시키면서도 그 특별한 맛과 가치를 유지하는 것이 중요합니다. 또한 음식 문화를 연구하고 보존하는 노력을 지속적으로 이어나가야 다음 세대에도 우리의 맛과 문화를 전해줄 수 있을 것입니다.이렇게 우리나라의 먹거리 문화를 홍보하여 한류를 지키는 방법에 대해 살펴보았습니다. 음식은 우리 문화의 중요한 일부이며 이를 통해 한국의 다양성과 아름다움을 세계로 알리는데 큰 역할을 할 것입니다. 한류는 아 한류를 더 발전시키기 위해서는 우리의 먹거리 문화를 소중히 여기고 지속적인 노력을 기울여야 합니다.  ",
+    "script_tag_txt" : "안녕하세요 여러분. 오늘은 우리나라의 풍부하고 다채로운 먹거리 문화를 통해 한류를 지키는 방법에 대해 이야기하고자 합니다. 음식은 문화의 중요한 부분이며 우리의 다양한 음식 문화를 효과적으로 홍보하고  <WR>나가</WR>  세계에 알리는 노력을 통해 한류를 더욱  <REP>강화하 강화시킬</REP>  수 있는 것입니다.첫째 한국의 다양한 음식 문화를 홍보하는 것은 한류의 기반을 확실히 다지는 첫  <WR>거래입니다.</WR>  우리나라는 매콤한 떡볶이부터 깊고  <WR>풍만</WR>  국물 요리까지 다양한 음식을 보유하고 있습니다. 이러한 음식들은 우리 문화와 역사, 지리 등의 특징을 반영하고 있으며 이를 세계에 알리는 것은 우리 문화를 다양한 관점에서 소개하는 좋은 방법입니다.둘째 음식을 통해 다른 문화와 소통하고 이해를 높일 수 있습니다. 음식은 문화를 이해하고 소통하는 중요한 매개체입니다. 우리 음식 문화를 다양한 나라의 음식과 접목시켜 새로운 맛과 경험을 제공함으로써 다른 문화와의 교류를 촉진할 수 있습니다. 이를 통해 서로의 문화를 존중하고 이해하는 인간적인 연결고리를 형성할 수 있습니다.셋째 음식 문화를 체험할 수 있는 행사와 활동을 개최하여 관심을 도모하는 것이 중요합니다. 음식 축제, 요리 대회, 전통 음식 체험 등의 행사를 통해 사람들에게 한국 음식의 매력을 직접 경험할 기회를 제공할 수 있습니다. 또한 전통 음음식의 조리법과 역사를 소개하는 워크숍이나 강연을 통해 음식 문화에 대한 지식을 널리 확산시킬 수 있을 것입니다.넷째, 소셜 미디어와 온라인 플랫폼을 활용하여 우리 음식 문화를 알리는 노력이 필요합니다. 요리 레시피, 음식 사진, 음식과 관련된 이야기 등을 공유하면서 한국 음식의 다양성과 특별함을 세계 여러  <WR>지역에</WR>  홍보할 수 있습니다. 또한 외국인 관광객들을 위한 음식 가이드나 레스토랑 추천  <WR>등에</WR>  제공하여 한국 음식을 더욱 쉽게 접할 수 있는 방법을 모색할 수 있습니다. 마지막으로 음식 문화의 보존과 현대화를 통해 지속적으로  <WR>발전을</WR>  시켜야 합니다.전통 음식을 현대적인 방식으로 재해석하거나 현대 요구에 맞게 변화시키면서도 그 특별한 맛과 가치를 유지하는 것이 중요합니다. 또한 음식 문화를 연구하고 보존하는 노력을 지속적으로 이어나가야 다음 세대에도 우리의 맛과 문화를 전해줄 수 있을 것입니다.이렇게 우리나라의 먹거리 문화를 홍보하여 한류를 지키는 방법에 대해 살펴보았습니다. 음식은 우리 문화의 중요한 일부이며 이를 통해 한국의 다양성과 아름다움을 세계로  <WR>알리는데</WR>  큰 역할을 할 것입니다.  <REP>한류는  <FIL>아</FIL>  한류를</REP>  더 발전시키기 위해서는 우리의 먹거리 문화를 소중히 여기고 지속적인 노력을 기울여야 합니다.  <WR></WR>  ",
+    "syllable_cnt" : 938,
+    "word_cnt" : 306,
+    "audible_word_cnt" : 291,
+    "sent_cnt" : 22
+  },
+  "evaluations" : [
+    {
+      "evaluation" : {
+        "eval_id" : "P01",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P02",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P03",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P04",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P05",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 2
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 1
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 1
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 2
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 2
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P06",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P07",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P08",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ05",
+        "voc_quality_scr" : 5
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P09",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ05",
+        "voc_quality_scr" : 5
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P10",
+        "eval_flag" : "expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ05",
+        "voc_quality_scr" : 5
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P11",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P12",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P13",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P14",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P15",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P16",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P17",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P18",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P19",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P20",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 5.8229099985268284,
+        "voc_speed_sec_scr" : 3
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP01",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP02",
+        "eval_flag" : "person",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP03",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP04",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP05",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP06",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP07",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP08",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP09",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP10",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP11",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP12",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP13",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP14",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP15",
+        "eval_flag" : "person",
+        "eval_grade" : "D+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP16",
+        "eval_flag" : "person",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP17",
+        "eval_flag" : "person",
+        "eval_grade" : "D+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP18",
+        "eval_flag" : "person",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP19",
+        "eval_flag" : "person",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP20",
+        "eval_flag" : "person",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 2,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 8,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    }
+  ],
+  "taglist" : [
+    {
+      "tag_id" : "KW063076",
+      "tag_keyword" : "강화하 강화시킬",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW063077",
+      "tag_keyword" : "한류는  아  한류를",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW063078",
+      "tag_keyword" : "나가",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063079",
+      "tag_keyword" : "거래입니다.",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063080",
+      "tag_keyword" : "풍만",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063081",
+      "tag_keyword" : "지역에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063082",
+      "tag_keyword" : "등에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063083",
+      "tag_keyword" : "발전을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063084",
+      "tag_keyword" : "알리는데",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063085",
+      "tag_keyword" : "",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW063086",
+      "tag_keyword" : "아",
+      "tag_type" : 1
+    }
+  ],
+  "average" : {
+    "repeat_scr" : 4.85,
+    "filler_words_scr" : 4.8,
+    "pause_scr" : 4.8,
+    "wrong_scr" : 3.9,
+    "voc_quality_scr" : 3.8,
+    "voc_speed_sec_scr" : 2.95,
+    "eval_grade" : "B+"
+  },
+  "info" : {
+    "filename" : "A01_S02_M_E_05_107_02_WA_MO_presentation.json",
+    "id" : "EVAL_0383",
+    "date" : "20231113",
+    "formats" : "*.json"
+  }
+}

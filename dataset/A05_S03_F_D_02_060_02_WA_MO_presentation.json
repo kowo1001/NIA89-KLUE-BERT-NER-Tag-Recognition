@@ -1,0 +1,1754 @@
+{
+  "speaker" : {
+    "age_flag" : "A05",
+    "gender" : "여자",
+    "job" : "직장인",
+    "aud_flag" : "AD6-10"
+  },
+  "presentation" : {
+    "presen_topic" : "A05_D_02",
+    "presen_type" : "S03",
+    "presen_location" : "회의실",
+    "presen_script" : "안녕하십니까, 오늘 저는 비트코인을 투자가치로서의 의견에 대해 고찰하고자 합니다. 비트코인은 디지털 자산으로서 급격한 가치 상승과 불안정성으로 많은 주목을 받고 있는 주제입니다. 제 발표에서는 비트코인의 장점과 단점, 투자 시 고려해야 할 사항에 대해 깊이 있는 논의를 통해 투자자들이 현명한 결정을 내릴 수 있도록 돕고자 합니다.\n비트코인은 몇 가지 주요 장점을 가지고 있습니다. 첫째, 무제한 공급이 아닌 한정된 공급량을 가지고 있어 인플레이션의 위험으로부터 상대적으로 견고한 투자 도구로 간주될 수 있습니다. 중앙 은행의 통화 정책에 의해 희석되는 전통적인 통화와는 대조적으로, 비트코인은 희소성을 가지고 있습니다.둘째, 글로벌 시장에서 빠르게 거래되며 경계 없는 특성을 가지고 있습니다. 이는 국제적인 투자자들에게 다양한 시장에서 빠르게 참여할 수 있는 기회를 제공하며, 자본의 이동성을 증가시킵니다.셋째, 비트코인은 블록체인 기술을 토대로 하여 거래의 투명성과 보안을 보장합니다. 블록체인은 모든 거래 내역을 분산형 원장에 기록하여 조작을 어렵게 하며, 이로써 신뢰성 있는 거래 환경을 조성합니다.비트코인 또한 몇 가지 주요 단점을 가지고 있습니다. 첫째, 가격 변동성이 매우 큽니다. 비트코인의 가격은 현재까지 꾸준한 불안정성을 보여왔습니다. 이로 인해 단기적인 투자자들에게는 예측하기 어려운 위험을 가져올 수 있으며, 가치의 급격한 변동으로 인한 손실도 우려됩니다.둘째, 법적·규제적 불확실성이 존재합니다. 비트코인은 국가별로 다르게 규제되고 인식되고 있습니다. 이는 투자자들에게 규제 변화로 인한 불확실성을 초래하며, 불안정한 투자 환경을 만들 수 있습니다.셋째, 보안 문제가 주요 관심사입니다. 비트코인 지갑과 거래소가 해킹의 대상이 되어 온 사례가 있습니다. 개인 정보와 자산의 보안을 유지하기 위해서는 충분한 보안 조치를 취해야 합니다.비트코인을 투자하려는 사람들은 몇 가지 중요한 사항을 고려해야 합니다. 첫째, 투자 금액을 신중하게 결정해야 합니다. 비트코인의 가격 변동성으로 인해 투자 금액을 조절하고, 투자 가능한 자금의 일부만 투자하는 것이 중요합니다.둘째, 투자 시기와 목표를 명확하게 설정해야 합니다. 비트코인 시장은 매우 변동성이 높기 때문에 투자 시기와 목표를 미리 계획하고, 긴 시간을 투자하거나 단기적인 이익을 추구하는지 결정해야 합니다.셋째, 법적·규제적 측면을 주의깊게 검토해야 합니다. 비트코인은 각 국가별로 다른 규제를 받을 수 있으므로, 해당 국가의 법과 규정을 충실히 준수해야 합니다.비트코인의 장기적 가치 평가는 논란의 소지가 있습니다. 어떤 사람들은 비트코인이 디지털 골드로서의 역할을 강조하며, 글로벌 경제 환경에서 안정된 자산으로 자리할 것이라고 주장합니다. 반면에 다른 사람들은 투기적인 특성과 불안정한 가치 변동으로 인해 영구한 투자 대상이 아니라고 주장합니다비트코인을 투자가치로 고려하는 것은 잠재적인 수익을 얻을 수 있는 기회를 의미합니다. 그러나 그에 따른 위험과 불확실성도 무시할 수 없습니다. 투자 시에는 신중한 검토와 계획, 충분한 정보 수집을 통해 결정을 내리는 것이 중요합니다. 최종적으로 개별 투자자의 투자 성향과 목표에 맞게 비트코인을 투자하는 것이 현명한 선택일 것입니다. 감사합니다.",
+    "presen_difficulty" : "H"
+  },
+  "script" : {
+    "start_time" : "00:00",
+    "end_time" : "04:59",
+    "script_stt_txt" : "안녕하십니까 오늘 저는 비트코인을 투자가치로서의 의견에 대해서 고찰하고자 합니다. 비트코인은 디지털 자산으로서 급격한 가치 상승과 불안정성으로 많은 주목을 받고 있는 주체입니다</WR>.  제 발표에서는 비트코인의 장점과 단점 투자 시 고려대야 될 사항에 대해서 깊이 있는 논의를 통해 투자자들이 현명한 결정을 내릴 수 있도록 돕고자 합니다.비트코인은 몇 가지 주요 장점을 가지고 있습니다. 첫째 무제한 공급이 아닌 한정적 공급량을 가지고 있어서 인플레이션의 위험으로부터 상대적으로 견고한 투자 도구로 간주될 수 있습니다. 중앙 은행의 통화 정책에 의해 희석되는 전통적인 통화와 대조적으로 비트코인은 희소성을 가지고 있다고 볼 수 있습니다.둘째 글로벌 시장에서 빠르고 다양하게 거래되며 경계 없다는 거래되며 경계가 없다는특성을 가지고 있습니다. 이는 국제적인 투자 국제적인 투자자들에게 다양한 시장에서 빠르게 참여할 수 있는 기회를 제공하고 자본의 이동성을 증가시킵니다.셋째 비트코인은 블록체인 기술을 토대로 하며 거래의 투명성과 보안성을 보장합니다. 블록체인은 모든 거래 내역이 분산형 원장에 기록되고 조작을 어렵게 하게 어렵게 하고있기 때문에 신뢰성 있는 거래 환경을 조성합니다.비트코인 또한 몇 가지 주요 한 단점이 있습니다.자 단점의 첫째 가격 변동성이 매우 큽니다. 비트코인의 가격은 현재까지 꾸준한 불안정성을 보여왔습니다. 이로 인해서 단기적인 투자자들에게는 예측하기 어려운 위험을 가져올 수 있으며 가치의 급격한 변동으로 인해서 손실이 우려됩니다.둘째 법적 국제적 불확실성이 존재 됩니다</WR>.  비트코인은 국가별로 다르게 규제되고 인식되고 있습니다. 이는 투자자들에게 규제 변화에 의한 불확실성을 초래하고 불안정한 투자 환경을 만들 수가 있습니다.단점은 셋째 보안 문제가 중요한 관심사입니다. 비트코인은 지갑과 거래소에 해킹의 대상이 되어 어 그런 사건이 발생된 사례가 많이 있습니다. 개인 정보와 자신 개인 정보와 나의 자산을보안을 유지하기 위해서 충분한 보안 조치를 취해야 될 것입니다</WR>. 비트코인을 투자하려는 사람들은 몇 가지 중요한 사항을 고려해야만 합니다. 첫째 투자 금액을 신중히 결정해야 됩니다</WR>.  비트코인은 가격 변동성으로 인해서 투자 금액을 조절해야 하고 투자 가능한 자금에 일부만 투자하는 것이 중요합니다.둘째 투자 시기와 목표를 명확하게 설정해야 합니다. 비트코인 시장은 매우 변동성이 높기 때문에 투자 시기와 목표를 미리 계획하고 긴 시간동안 투자를 하거나 단기적인 이익을 취 추구하면 추구 추구하기를결정해야 합니다.셋째 법적 규제적 측면에서 주의깊게 검토해야 됩니다</WR>.  비트코인은 각 국여별로 다른 규제를 받을 수 있기 때문에 해당 국가의 법과 규정을 충실히 준수해야 됩니다</WR>. 비트코인의 장기적인 가치 평가는 논란의 소지가 있습니다. 어떤 사람은 비트코인이 디지털 골드로서의 역할을 강조하기도 하고 글로벌 경제 사회에 안정된 자산으로 자림하고 자리할 것임을 주장하기도 합니다</WR>. 하지만 반면 다른 사람들은 투기적인 특성과 불안정한 가치 변동으로 인해서 연구한 투자 대상이 아니라고 주장하기도 합니다.비트코인의 투자가치로 고려하는 것은 잠재적인 수익을 얻을 수 있는 기회를 의미합니다. 그러나 그에 따른 위험성과 불확실성을 무시할 수는 없을 것입니다</WR>.  투자 시에는 신중한 검토와 계획 충분한 정보 수집을 통해서 결정을 내리는 것이 매우 중요합니다. 최종적으로 개별 투자자들의 투자 성향과 목표에 맞게 비트코인을 투자하는 것이 현명한 선택일 것입니다.  ",
+    "script_tag_txt" : "안녕하십니까 오늘 저는 비트코인을 투자가치로서의 의견에  <WR>대해서</WR>  고찰하고자 합니다. 비트코인은 디지털 자산으로서 급격한 가치 상승과 불안정성으로 많은 주목을 받고 있는  <WR>주체입니다</WR>.  제 발표에서는 비트코인의 장점과 단점 투자 시  <WR>고려대야</WR>   <WR>될</WR>  사항에 대해서 깊이 있는 논의를 통해 투자자들이 현명한 결정을 내릴 수 있도록 돕고자 합니다.비트코인은 몇 가지 주요 장점을 가지고 있습니다. 첫째 무제한 공급이 아닌  <WR>한정적</WR>  공급량을 가지고  <WR>있어서</WR>  인플레이션의 위험으로부터 상대적으로 견고한 투자 도구로 간주될 수 있습니다. 중앙 은행의 통화 정책에 의해 희석되는 전통적인  <WR>통화와</WR>  대조적으로 비트코인은 희소성을 가지고  <WR>있다고</WR>   <WR>볼</WR>   <WR>수</WR>  있습니다.둘째 글로벌 시장에서  <WR>빠르고</WR>   <WR>다양하게</WR>   <REP>거래되며 경계 없다는 거래되며  <WR>경계가</WR>   <WR>없다는</WR></REP>  특성을 가지고 있습니다. 이는  <REP>국제적인 투자 국제적인 투자자들에게</REP>  다양한 시장에서 빠르게 참여할 수 있는 기회를  <WR>제공하고</WR>  자본의 이동성을 증가시킵니다.셋째 비트코인은 블록체인 기술을 토대로  <WR>하며</WR>  거래의 투명성과  <WR>보안성을</WR>  보장합니다. 블록체인은 모든 거래  <WR>내역이</WR>  분산형 원장에  <WR>기록되고</WR>  조작을  <REP>어렵게 하게 어렵게  <WR>하고</WR></REP>   <WR>있기</WR>   <WR>때문에</WR>  신뢰성 있는 거래 환경을 조성합니다.비트코인 또한 몇 가지 주요  <WR>한</WR>   <WR>단점이</WR>  있습니다. <WR>자</WR>   <WR>단점의</WR>  첫째 가격 변동성이 매우 큽니다. 비트코인의 가격은 현재까지 꾸준한 불안정성을 보여왔습니다. 이로  <WR>인해서</WR>  단기적인 투자자들에게는 예측하기 어려운 위험을 가져올 수 있으며 가치의 급격한 변동으로  <WR>인해서</WR>   <WR>손실이</WR>  우려됩니다.둘째 법적  <WR>국제적</WR>  불확실성이 존재  <WR>됩니다</WR>.  비트코인은 국가별로 다르게 규제되고 인식되고 있습니다. 이는 투자자들에게 규제  <WR>변화에</WR>   <WR>의한</WR>  불확실성을  <WR>초래하고</WR>  불안정한 투자 환경을 만들  <WR>수가</WR>  있습니다. <WR>단점은</WR>  셋째 보안 문제가  <WR>중요한</WR>  관심사입니다.  <WR>비트코인은</WR>  지갑과  <WR>거래소에</WR>  해킹의 대상이 되어  <FIL>어</FIL>   <WR>그런</WR>   <WR>사건이</WR>   <WR>발생된</WR>  사례가  <WR>많이</WR>  있습니다.  <REP>개인 정보와 자신 개인 정보와  <WR>나의</WR>   <WR>자산을</WR></REP>  보안을 유지하기  <WR>위해서</WR>  충분한 보안 조치를 취해야  <WR>될</WR>   <WR>것입니다</WR>. 비트코인을 투자하려는 사람들은 몇 가지 중요한 사항을  <WR>고려해야만</WR>  합니다. 첫째 투자 금액을  <WR>신중히</WR>  결정해야  <WR>됩니다</WR>.   <WR>비트코인은</WR>  가격 변동성으로  <WR>인해서</WR>  투자 금액을  <WR>조절해야</WR>  하고 투자 가능한  <WR>자금에</WR>  일부만 투자하는 것이 중요합니다.둘째 투자 시기와 목표를 명확하게 설정해야 합니다. 비트코인 시장은 매우 변동성이 높기 때문에 투자 시기와 목표를 미리 계획하고 긴  <WR>시간동안</WR>   <WR>투자를</WR>  하거나 단기적인 이익을  <REP>취 추구하면 추구  <WR>추구하기를</WR></REP>  결정해야 합니다.셋째 법적 규제적  <WR>측면에서</WR>  주의깊게 검토해야  <WR>됩니다</WR>.  비트코인은 각  <WR>국여별로</WR>  다른 규제를 받을 수  <WR>있기</WR>   <WR>때문에</WR>  해당 국가의 법과 규정을 충실히 준수해야  <WR>됩니다</WR>. 비트코인의  <WR>장기적인</WR>  가치 평가는 논란의 소지가 있습니다. 어떤  <WR>사람은</WR>  비트코인이 디지털 골드로서의 역할을  <WR>강조하기도</WR>   <WR>하고</WR>  글로벌 경제  <WR>사회에</WR>  안정된 자산으로  <WR>자림하고 자리할</WR>   <WR>것임을</WR>   <WR>주장하기도</WR>   <WR>합니다</WR>.  <WR>하지만</WR>   <WR>반면</WR>  다른 사람들은 투기적인 특성과 불안정한 가치 변동으로  <WR>인해서</WR>   <WR>연구한</WR>  투자 대상이 아니라고  <WR>주장하기도</WR>  합니다. <WR>비트코인의</WR>  투자가치로 고려하는 것은 잠재적인 수익을 얻을 수 있는 기회를 의미합니다. 그러나 그에 따른  <WR>위험성과</WR>   <WR>불확실성을</WR>  무시할  <WR>수는</WR>   <WR>없을</WR>   <WR>것입니다</WR>.  투자 시에는 신중한 검토와 계획 충분한 정보 수집을  <WR>통해서</WR>  결정을 내리는 것이  <WR>매우</WR>  중요합니다. 최종적으로 개별  <WR>투자자들의</WR>  투자 성향과 목표에 맞게 비트코인을 투자하는 것이 현명한 선택일 것입니다.  <WR></WR>  ",
+    "syllable_cnt" : 1283,
+    "word_cnt" : 398,
+    "audible_word_cnt" : 354,
+    "sent_cnt" : 34
+  },
+  "evaluations" : [
+    {
+      "evaluation" : {
+        "eval_id" : "P01",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P02",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P03",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P04",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P05",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 3
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 1
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 2
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 2
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 2
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P06",
+        "eval_flag" : "expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P07",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P08",
+        "eval_flag" : "expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ05",
+        "voc_quality_scr" : 5
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P09",
+        "eval_flag" : "expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ05",
+        "voc_quality_scr" : 5
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P10",
+        "eval_flag" : "expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P11",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P12",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P13",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P14",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P15",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P16",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P17",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P18",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P19",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 4
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P20",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : 5
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 4.309541341997758,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP01",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP02",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP03",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP04",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP05",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP06",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP07",
+        "eval_flag" : "person",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP08",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP09",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP10",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP11",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP12",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP13",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP14",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP15",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP16",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP17",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP18",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP19",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP20",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 5,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 1,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 88,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    }
+  ],
+  "taglist" : [
+    {
+      "tag_id" : "KW092920",
+      "tag_keyword" : "거래되며 경계 없다는 거래되며  경계가   없다는",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW092921",
+      "tag_keyword" : "국제적인 투자 국제적인 투자자들에게",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW092922",
+      "tag_keyword" : "어렵게 하게 어렵게  하고",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW092923",
+      "tag_keyword" : "개인 정보와 자신 개인 정보와  나의   자산을",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW092924",
+      "tag_keyword" : "취 추구하면 추구  추구하기를",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW092925",
+      "tag_keyword" : "대해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092926",
+      "tag_keyword" : "주체입니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092927",
+      "tag_keyword" : "고려대야",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092928",
+      "tag_keyword" : "될",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092929",
+      "tag_keyword" : "한정적",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092930",
+      "tag_keyword" : "있어서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092931",
+      "tag_keyword" : "통화와",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092932",
+      "tag_keyword" : "있다고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092933",
+      "tag_keyword" : "볼",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092934",
+      "tag_keyword" : "수",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092935",
+      "tag_keyword" : "빠르고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092936",
+      "tag_keyword" : "다양하게",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092937",
+      "tag_keyword" : "경계가",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092938",
+      "tag_keyword" : "없다는",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092939",
+      "tag_keyword" : "제공하고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092940",
+      "tag_keyword" : "하며",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092941",
+      "tag_keyword" : "보안성을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092942",
+      "tag_keyword" : "내역이",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092943",
+      "tag_keyword" : "기록되고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092944",
+      "tag_keyword" : "하고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092945",
+      "tag_keyword" : "있기",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092946",
+      "tag_keyword" : "때문에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092947",
+      "tag_keyword" : "한",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092948",
+      "tag_keyword" : "단점이",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092949",
+      "tag_keyword" : "자",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092950",
+      "tag_keyword" : "단점의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092951",
+      "tag_keyword" : "인해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092952",
+      "tag_keyword" : "인해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092953",
+      "tag_keyword" : "손실이",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092954",
+      "tag_keyword" : "국제적",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092955",
+      "tag_keyword" : "됩니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092956",
+      "tag_keyword" : "변화에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092957",
+      "tag_keyword" : "의한",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092958",
+      "tag_keyword" : "초래하고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092959",
+      "tag_keyword" : "수가",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092960",
+      "tag_keyword" : "단점은",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092961",
+      "tag_keyword" : "중요한",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092962",
+      "tag_keyword" : "비트코인은",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092963",
+      "tag_keyword" : "거래소에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092964",
+      "tag_keyword" : "그런",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092965",
+      "tag_keyword" : "사건이",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092966",
+      "tag_keyword" : "발생된",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092967",
+      "tag_keyword" : "많이",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092968",
+      "tag_keyword" : "나의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092969",
+      "tag_keyword" : "자산을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092970",
+      "tag_keyword" : "위해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092971",
+      "tag_keyword" : "될",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092972",
+      "tag_keyword" : "것입니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092973",
+      "tag_keyword" : "고려해야만",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092974",
+      "tag_keyword" : "신중히",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092975",
+      "tag_keyword" : "됩니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092976",
+      "tag_keyword" : "비트코인은",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092977",
+      "tag_keyword" : "인해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092978",
+      "tag_keyword" : "조절해야",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092979",
+      "tag_keyword" : "자금에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092980",
+      "tag_keyword" : "시간동안",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092981",
+      "tag_keyword" : "투자를",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092982",
+      "tag_keyword" : "추구하기를",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092983",
+      "tag_keyword" : "측면에서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092984",
+      "tag_keyword" : "됩니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092985",
+      "tag_keyword" : "국여별로",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092986",
+      "tag_keyword" : "있기",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092987",
+      "tag_keyword" : "때문에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092988",
+      "tag_keyword" : "됩니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092989",
+      "tag_keyword" : "장기적인",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092990",
+      "tag_keyword" : "사람은",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092991",
+      "tag_keyword" : "강조하기도",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092992",
+      "tag_keyword" : "하고",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092993",
+      "tag_keyword" : "사회에",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092994",
+      "tag_keyword" : "자림하고 자리할",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092995",
+      "tag_keyword" : "것임을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092996",
+      "tag_keyword" : "주장하기도",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092997",
+      "tag_keyword" : "합니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092998",
+      "tag_keyword" : "하지만",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW092999",
+      "tag_keyword" : "반면",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093000",
+      "tag_keyword" : "인해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093001",
+      "tag_keyword" : "연구한",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093002",
+      "tag_keyword" : "주장하기도",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093003",
+      "tag_keyword" : "비트코인의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093004",
+      "tag_keyword" : "위험성과",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093005",
+      "tag_keyword" : "불확실성을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093006",
+      "tag_keyword" : "수는",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093007",
+      "tag_keyword" : "없을",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093008",
+      "tag_keyword" : "것입니다",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093009",
+      "tag_keyword" : "통해서",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093010",
+      "tag_keyword" : "매우",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093011",
+      "tag_keyword" : "투자자들의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093012",
+      "tag_keyword" : "",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW093013",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    }
+  ],
+  "average" : {
+    "repeat_scr" : 4.9,
+    "filler_words_scr" : 4.8,
+    "pause_scr" : 4.85,
+    "wrong_scr" : 3.0,
+    "voc_quality_scr" : 3.3,
+    "voc_speed_sec_scr" : 1.05,
+    "eval_grade" : "B0"
+  },
+  "info" : {
+    "filename" : "A05_S03_F_D_02_060_02_WA_MO_presentation.json",
+    "id" : "EVAL_0464",
+    "date" : "20231113",
+    "formats" : "*.json"
+  }
+}

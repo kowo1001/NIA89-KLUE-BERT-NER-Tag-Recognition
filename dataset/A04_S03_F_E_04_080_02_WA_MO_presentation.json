@@ -1,0 +1,1524 @@
+{
+  "speaker" : {
+    "age_flag" : "A04",
+    "gender" : "여자",
+    "job" : "주부",
+    "aud_flag" : "AD05"
+  },
+  "presentation" : {
+    "presen_topic" : "A04_E_04",
+    "presen_type" : "S03",
+    "presen_location" : "회의실",
+    "presen_script" : "안녕하세요, 오늘은 '우리사회에 미국식 징벌적 보상제도 도입에 대한 장단점과 고려사항'에 대해 논의하려고 합니다. 미국식 징벌적 보상제도의 도입은 우리 사회의 범죄 예방과 범죄자 처벌에 어떤 영향을 미칠지 고려해보며, 미국식 징벌적 보상제도를 도입하기 전에 우리 사회의 문화와 가치관과의 일치 여부를 꼼꼼히 검토해야 합니다. 미국과 우리 사회는 역사와 문화가 다를 수 있기 때문에, 외부 모델을 단순히 적용하기 보다는 그에 맞게 조정하는 것이 중요합니다.\n첫 번째 장점으로 미국식 징벌적 보상제도는 엄격한 처벌과 보상을 통해 범죄 예방에 기여할 수 있습니다. 범죄자들은 처벌의 결과로 자신의 행동을 재고하게 될 것입니다. 이로 인해 범죄율 감소와 사회적 안전성 향상을 기대할 수 있습니다.피해자들에게 보상을 제공함으로써 그들의 피해를 상쇄시키는 과정에서 정의를 실현할 수 있습니다. 피해자들의 상처를 치유하고, 범죄 행위에 대한 불만을 해소할 수 있는 기회를 제공합니다.징벌적 보상제도의 도입으로 인해 사회적 공공의식이 강화될 수 있습니다. 범죄 행위에 대한 엄격한 처벌과 보상 제도가 시민들에게 법을 준수하고 사회적 규칙을 지키는 중요성을 상기시킬 수 있습니다. 또한 법 집행기관의 역할이 강화되고 법을 실제로 집행하는 데 도움이 될 수 있습니다.두 번째 단점은 미국식 징벌적 보상제도는 처벌과 보상의 크기를 범행의 정도에 따라 차등화하는 특징을 가지므로, 사회적 불평등을 야기할 수 있습니다. 이는 인권을 침해하거나 재산을 강탈하는 결과를 낼 수 있습니다.과도한 징벌적 접근은 범죄자의 재사회화를 방해할 수 있습니다. 벌금과 보상의 높은 액수는 범죄자의 경제적인 어려움을 야기하고, 재사회화를 위한 노력을 방해할 수 있습니다. 이로 인해 범죄자가 다시 범죄로 빠질 가능성이 높아질 수 있습니다.미국식 징벌적 보상제도는 주로 처벌과 보상에 중점을 두는 경향이 있습니다. 그러나 사회적으로는 범죄 예방이 더 중요한 목표일 수 있습니다. 예방을 강조하는 제도가 아니라면, 범죄가 이미 발생한 후에 대처하는 방식이므로 사회 안전성을 높이는데 한계가 있을 수 있습니다.세 번째 그러므로 우리가 고려해야할 사항은 미국식 징벌적 보상제도는 우리 사회의 문화와 가치관과 부합하는지 고려해야 합니다. 각 사회마다 법률 체계와 사회적 구조가 다르므로, 외국 제도를 도입할 때 문화적 차이를 고려하는 것이 중요합니다.미국식 징벌적 보상제도가 우리 사회에 적용 가능한지, 그리고 어떤 범위에서 적용되어야 하는지를 고려해야 합니다. 제도의 적용 범위와 유연성을 고려하여 조정하고 적절히 적용하는 방법을 모색해야 합니다.미국식 징벌적 보상제도를 도입하기 전에 대안적인 접근 방식을 검토해야 합니다. 예를 들어, 사회 복지 프로그램, 교육 기회 제공, 재활 프로그램 등의 대안적인 방식을 통해 범죄 예방과 범죄자 재사회화를 추구하는 것도 고려할 가치가 있습니다.우리사회에 미국식 징벌적 보상제도를 도입하는 것은 장단점을 신중히 고려한 후의 중요한 결정입니다. 범죄 예방과 범죄자 처벌의 균형을 맞추며, 사회적 안전성과 공정성을 동시에 추구하는 노력이 필요합니다. 감사합니다.",
+    "presen_difficulty" : "M"
+  },
+  "script" : {
+    "start_time" : "00:01",
+    "end_time" : "05:01",
+    "script_stt_txt" : "안녕하세요 오늘은 우리사회에 미국식 진벌절 보상제도 도입에 대한 장단점과 고려사항'에 대해 논의하려고 합니다. 미국식 진벌절 보상제도의 도입은 우리 사회의 범죄 예방과 범죄자 처벌에 어떤 영향을 미칠지 고려해보며 미국식 진벌절 어 보상제도를 도입하기 전에 우리 사회의 문화의 가치관과 일치 여부를 저 어 꼼꼼히 검토해야 합니다. 어 미국과 우리 사회는 역사와 문화가 다를 수 있기 때문에 외부 모델을 단순히 적용하기 보다는 그저 맞게 조정하는 것이 중요합니다.첫 번째 장점으로 미국식 징벌적 어 보상제도는 엄격한 처벌과 보상을 통해 범죄 예방에 기여할 수 있습니다. 범죄자들은 처벌의 결과로 자신의 행동을 제고해야 될 것입니다. 이로 인해 범죄율 어 감소와 사회적 안전하는 향상을 기대할 수 있습니다. 어 피해자들과 보상을 제공함으로써 그들의 어 피해를 상쇄시키는 과정에서 정의를 실현할 수 있습니다. 피해자들의 정치를 피해자들의 상처를 치유하고 범죄 행위에 대한 불만을 해소할 수 있는 기회를 제공합니다.징벌적 보상제도 도입으로 인해 사회적 공공의식이 강화될 수 있습니다. 범죄 행위에 대한 엄격한 처벌과 보상 제도가 시민들에게 법을 준수하고 사회적 규칙을 지키는 중요성을 상기시킬 수 있습니다. 어 또 또한 법 집행기간의 역할이 강화되고 법을 실제로 어 집행하는 데 도움이 될 수 있습니다.두 번째 단점은 어 미국식 징벌적 보상제도는 처벌과 보상의 크기를 어 범행의 정도에 따라 차등화하는 특징을 가지므로 사회적 불평등을 얘기할 수 있습니다. 이는 인권을 침해하거나 재산을 강탈하는 경 결과를 낼 수 있습니다. 어 과도한 저 어 징벌적 접근은 범죄자와 재사회화를 방해할 수 있습니다. 벌금과 보상의 높은 액수는 범죄자의 경제적인 어려움을 얘기하고 야기하고 재사회화를 위한 노력을 방해할 수 있습니다. 이로 인해 범죄자가 다시 범죄로 빠질 가능성이 높아질 수 있습니다.미국식 징벌적 보상제도는 주로 처벌과 보상에 중점을 두는 경향이 있습니다. 그러나 사회적으로는 범죄 예방이 더 중요한 목표일 수 있습니다. 어 예방을 강조하는 제도가 아니라면 범죄가 이미 발생한 후에 대처하는 방식이므로 사회 안전성을 높이는데 한계가 있을 수 있습니다.세 번째, 그러므로 우리가 고려할 사항은 미국식 징벌적 어 보상제도는 우리 사회의 문화와 가치관과 부합하는지 고려해야 합니다. 각 사회마다 법 법률 체계의 사회적 구도가 다르므로, 음 외국 제도를 도입할 때 문화적 어 차이를 고려하는 것이 중요합니다.미국식 징벌적 어 보상제도가 우리 사회에 적용 가능한지 그리고 어떤 범위에서 적용되어야 하는지를 고려해야 합니다. 제도의 적용 범위와 유연성을 고려하여 조정하고 적절히 적용하는 방법을 모색해야 합니다.미국식 징벌적 보상제도를 도합하기 전에 대안적인 접근 방법 방식을 검토해야 합니다. 어 예를 들어 사회 복지 프로그램, 교육 기회 제공, 어 재활 프로그램 등의 어 대안적인 방식을 통해 범죄 예방과 범죄자 재사회화를 추구하는 것도 고려할 가치가 있습니다.음 우리사회에 미국식 징벌적 보상제도를 도입하는 것은 장단점을 어 신중히 고려한 후의 중요한 결정입니다. 범죄 예방과 범죄자 처벌의 균형을 맞추며, 사회적 안전성과 공정성을 동시에 추구하는 노력이 필요합니다. 감사합니다.",
+    "script_tag_txt" : "안녕하세요 오늘은 우리사회에 미국식  <WR>진벌절</WR>  보상제도 도입에 대한 장단점과 고려사항'에 대해 논의하려고 합니다. 미국식  <WR>진벌절</WR>  보상제도의 도입은 우리 사회의 범죄 예방과 범죄자 처벌에 어떤 영향을 미칠지 고려해보며 미국식  <WR>진벌절</WR>   <FIL>어</FIL>  보상제도를 도입하기 전에 우리 사회의  <WR>문화의</WR>   <WR>가치관과</WR>  일치 여부를  <FIL>저</FIL>   <FIL>어</FIL>  꼼꼼히 검토해야 합니다.  <FIL>어</FIL>  미국과 우리 사회는 역사와 문화가 다를 수 있기 때문에 외부 모델을 단순히 적용하기 보다는  <WR>그저</WR>  맞게 조정하는 것이 중요합니다.첫 번째 장점으로 미국식 징벌적  <FIL>어</FIL>  보상제도는 엄격한 처벌과 보상을 통해 범죄 예방에 기여할 수 있습니다. 범죄자들은 처벌의 결과로 자신의 행동을  <WR>제고해야</WR>  될 것입니다. 이로 인해 범죄율  <FIL>어</FIL>  감소와 사회적  <WR>안전하는</WR>  향상을 기대할 수 있습니다.  <FIL>어</FIL>   <WR>피해자들과</WR>  보상을 제공함으로써 그들의  <FIL>어</FIL>  피해를 상쇄시키는 과정에서 정의를 실현할 수 있습니다.  <REP>피해자들의 정치를 피해자들의 상처를</REP>  치유하고 범죄 행위에 대한 불만을 해소할 수 있는 기회를 제공합니다.징벌적  <WR>보상제도</WR>  도입으로 인해 사회적 공공의식이 강화될 수 있습니다. 범죄 행위에 대한 엄격한 처벌과 보상 제도가 시민들에게 법을 준수하고 사회적 규칙을 지키는 중요성을 상기시킬 수 있습니다.  <FIL>어</FIL>   <REP>또 또한</REP>  법  <WR>집행기간의</WR>  역할이 강화되고 법을 실제로  <FIL>어</FIL>  집행하는 데 도움이 될 수 있습니다.두 번째 단점은  <FIL>어</FIL>  미국식 징벌적 보상제도는 처벌과 보상의 크기를  <FIL>어</FIL>  범행의 정도에 따라 차등화하는 특징을 가지므로 사회적 불평등을  <WR>얘기할</WR>  수 있습니다. 이는 인권을 침해하거나 재산을 강탈하는  <REP>경 결과를</REP>  낼 수 있습니다.  <FIL>어</FIL>  과도한  <FIL>저</FIL>   <FIL>어</FIL>  징벌적 접근은  <WR>범죄자와</WR>  재사회화를 방해할 수 있습니다. 벌금과 보상의 높은 액수는 범죄자의 경제적인 어려움을  <REP>얘기하고 야기하고</REP>  재사회화를 위한 노력을 방해할 수 있습니다. 이로 인해 범죄자가 다시 범죄로 빠질 가능성이 높아질 수 있습니다.미국식 징벌적 보상제도는 주로 처벌과 보상에 중점을 두는 경향이 있습니다. 그러나 사회적으로는 범죄 예방이 더 중요한 목표일 수 있습니다.  <FIL>어</FIL>  예방을 강조하는 제도가 아니라면 범죄가 이미 발생한 후에 대처하는 방식이므로 사회 안전성을 높이는데 한계가 있을 수 있습니다.세 번째, 그러므로 우리가  <WR>고려할</WR>  사항은 미국식 징벌적  <FIL>어</FIL>  보상제도는 우리 사회의 문화와 가치관과 부합하는지 고려해야 합니다. 각 사회마다  <REP>법 법률</REP>   <WR>체계의</WR>  사회적  <WR>구도가</WR>  다르므로,  <FIL>음</FIL>  외국 제도를 도입할 때 문화적  <FIL>어</FIL>  차이를 고려하는 것이 중요합니다.미국식 징벌적  <FIL>어</FIL>  보상제도가 우리 사회에 적용 가능한지 그리고 어떤 범위에서 적용되어야 하는지를 고려해야 합니다. 제도의 적용 범위와 유연성을 고려하여 조정하고 적절히 적용하는 방법을 모색해야 합니다.미국식 징벌적 보상제도를  <WR>도합하기</WR>  전에 대안적인 접근  <REP>방법 방식을</REP>  검토해야 합니다.  <FIL>어</FIL>  예를 들어 사회 복지 프로그램, 교육 기회 제공,  <FIL>어</FIL>  재활 프로그램 등의  <FIL>어</FIL>  대안적인 방식을 통해 범죄 예방과 범죄자 재사회화를 추구하는 것도 고려할 가치가 있습니다. <FIL>음</FIL>  우리사회에 미국식 징벌적 보상제도를 도입하는 것은 장단점을  <FIL>어</FIL>  신중히 고려한 후의 중요한 결정입니다. 범죄 예방과 범죄자 처벌의 균형을 맞추며, 사회적 안전성과 공정성을 동시에 추구하는 노력이 필요합니다. 감사합니다.",
+    "syllable_cnt" : 1177,
+    "word_cnt" : 392,
+    "audible_word_cnt" : 353,
+    "sent_cnt" : 28
+  },
+  "evaluations" : [
+    {
+      "evaluation" : {
+        "eval_id" : "P01",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P02",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P03",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ01",
+        "voc_quality_scr" : 1
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P04",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ01",
+        "voc_quality_scr" : 1
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P05",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 2
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 3
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 2
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 1
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 2
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P06",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P07",
+        "eval_flag" : "expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ01",
+        "voc_quality_scr" : 1
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P08",
+        "eval_flag" : "expert",
+        "eval_grade" : "D0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P09",
+        "eval_flag" : "expert",
+        "eval_grade" : "D0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P10",
+        "eval_flag" : "expert",
+        "eval_grade" : "D0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ04",
+        "voc_quality_scr" : 4
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P11",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P12",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P13",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P14",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P15",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P16",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ01",
+        "voc_quality_scr" : 1
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P17",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P18",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P19",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "D0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 5
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ03",
+        "voc_quality_scr" : 3
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "P20",
+        "eval_flag" : "semi-expert",
+        "eval_grade" : "F"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : 4
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : 2
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : 5
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : 3
+      },
+      "voice_quality" : {
+        "voc_quality" : "VCQ02",
+        "voc_quality_scr" : 2
+      },
+      "voice_speed" : {
+        "voc_speed" : 3.9419524889226785,
+        "voc_speed_sec_scr" : 1
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP01",
+        "eval_flag" : "person",
+        "eval_grade" : "C0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP02",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP03",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP04",
+        "eval_flag" : "person",
+        "eval_grade" : "C+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP05",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP06",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP07",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP08",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP09",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP10",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP11",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP12",
+        "eval_flag" : "person",
+        "eval_grade" : "D+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP13",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP14",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP15",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP16",
+        "eval_flag" : "person",
+        "eval_grade" : "D0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP17",
+        "eval_flag" : "person",
+        "eval_grade" : "A+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP18",
+        "eval_flag" : "person",
+        "eval_grade" : "A0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP19",
+        "eval_flag" : "person",
+        "eval_grade" : "B+"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    },
+    {
+      "evaluation" : {
+        "eval_id" : "WP20",
+        "eval_flag" : "person",
+        "eval_grade" : "B0"
+      },
+      "repeat" : {
+        "repeat_cnt" : 6,
+        "repeat_scr" : null
+      },
+      "filler_words" : {
+        "filler_words_cnt" : 25,
+        "filler_words_scr" : null
+      },
+      "pause" : {
+        "pause_cnt" : 0,
+        "pause_scr" : null
+      },
+      "wrong" : {
+        "wrong_cnt" : 17,
+        "wrong_scr" : null
+      },
+      "voice_quality" : {
+        "voc_quality" : null,
+        "voc_quality_scr" : null
+      },
+      "voice_speed" : {
+        "voc_speed" : null,
+        "voc_speed_sec_scr" : null
+      }
+    }
+  ],
+  "taglist" : [
+    {
+      "tag_id" : "KW167895",
+      "tag_keyword" : "피해자들의 정치를 피해자들의 상처를",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167896",
+      "tag_keyword" : "또 또한",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167897",
+      "tag_keyword" : "경 결과를",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167898",
+      "tag_keyword" : "얘기하고 야기하고",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167899",
+      "tag_keyword" : "법 법률",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167900",
+      "tag_keyword" : "방법 방식을",
+      "tag_type" : 2
+    },
+    {
+      "tag_id" : "KW167901",
+      "tag_keyword" : "진벌절",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167902",
+      "tag_keyword" : "진벌절",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167903",
+      "tag_keyword" : "진벌절",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167904",
+      "tag_keyword" : "문화의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167905",
+      "tag_keyword" : "가치관과",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167906",
+      "tag_keyword" : "그저",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167907",
+      "tag_keyword" : "제고해야",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167908",
+      "tag_keyword" : "안전하는",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167909",
+      "tag_keyword" : "피해자들과",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167910",
+      "tag_keyword" : "보상제도",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167911",
+      "tag_keyword" : "집행기간의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167912",
+      "tag_keyword" : "얘기할",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167913",
+      "tag_keyword" : "범죄자와",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167914",
+      "tag_keyword" : "고려할",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167915",
+      "tag_keyword" : "체계의",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167916",
+      "tag_keyword" : "구도가",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167917",
+      "tag_keyword" : "도합하기",
+      "tag_type" : 4
+    },
+    {
+      "tag_id" : "KW167918",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167919",
+      "tag_keyword" : "저",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167920",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167921",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167922",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167923",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167924",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167925",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167926",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167927",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167928",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167929",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167930",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167931",
+      "tag_keyword" : "저",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167932",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167933",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167934",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167935",
+      "tag_keyword" : "음",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167936",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167937",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167938",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167939",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167940",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167941",
+      "tag_keyword" : "음",
+      "tag_type" : 1
+    },
+    {
+      "tag_id" : "KW167942",
+      "tag_keyword" : "어",
+      "tag_type" : 1
+    }
+  ],
+  "average" : {
+    "repeat_scr" : 3.95,
+    "filler_words_scr" : 2.05,
+    "pause_scr" : 4.85,
+    "wrong_scr" : 2.9,
+    "voc_quality_scr" : 2.4,
+    "voc_speed_sec_scr" : 1.05,
+    "eval_grade" : "C0"
+  },
+  "info" : {
+    "filename" : "A04_S03_F_E_04_080_02_WA_MO_presentation.json",
+    "id" : "EVAL_0750",
+    "date" : "20231113",
+    "formats" : "*.json"
+  }
+}
