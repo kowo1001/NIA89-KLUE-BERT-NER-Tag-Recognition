@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  gongjuck:
+    container_name: gongjuck
+    volumes:
+      - "/home/udas/nado/essay/workspace/aes/jwjang_workspace/tag-recognition:/tf/tag-recognition"
+    build: .
+    ports:
+      - 1232:8888 
+    environment:
+      TZ: Asia/Seoul
+      JUPYTER_TOKEN: easy
+      NVIDIA_VISIBLE_DEVICES: 0,1
+      TF_ENABLE_ONEDNN_OPTS: 0
+      CUDA_VISIBLE_DEVICES: 0,1
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              #device_ids: ['0']
+              count: 2
+              capabilities: [ gpu ]
