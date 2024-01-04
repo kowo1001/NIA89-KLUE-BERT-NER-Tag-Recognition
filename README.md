@@ -16,7 +16,7 @@
 - 공적 말하기 발표 원고 280건 (전사 스크립트800건) 이상(발표 평가 포함)
 - 공적 말하기를 교육 및 평가하는 객관적인 교육용 자료로 활용하고 실시간 공적 말하기 관련 코칭 및 피드백 솔루션 제공
 
-■ 학습모델 품질기준  \
+■ 학습모델 품질기준  
 〇 선정된 학습모델 임무(TASK) 개념 및 적정성
 - 임무 : 태깅 탐지(태그 인식 및 분류)
 - 개념 : 발표자의 발화에서 언어적 평가항목 중 인식 가능한 태그를 탐지하여 언어적 평가에 활용
@@ -37,7 +37,7 @@
 9) Fine-tuning을 통해 한국어 개체명(태그명)인식 다운스트림 태스크를 진행
     
 〇 성능 지표 및 목표값
-- F1-점수 (F1-Score) 64% 이상 \
+- F1-점수 (F1-Score) 64% 이상 
 
 〇 Data I/O
 - Input data : 전사 스크립트(STT 발화 내용 텍스트 문장),특정 평가항목(휴지)에 대한 라벨링 데이터
@@ -63,7 +63,7 @@ model = TFBertModel.from_pretrained("klue/bert-base")
 
 ```
 
-■ 구축 환경   \
+■ 구축 환경   
 `CPU` : Xeon Gold 6348 CPU 2.60GHz 28core * 2EA \
 `Memory` : 527GB  \
 `GPU` : Nvidia TESLA A100 (80G) * 4EA \
@@ -102,7 +102,7 @@ Load가 완료되면 Docker를 실행시킵니다.
 $ docker run -it --gpus all nia89_workspace_publicspeak_gpu bash
 ```
 
-(또는) \
+(또는) 
 
 ```bash
 $ docker run -it \
